@@ -1,0 +1,22 @@
+{
+  "name": "squeaky-toy",
+  "description": "A module which wraps the Rexster server and is geared toward the Titan graph database.  For more: https://github.com/tinkerpop/rexster",
+  "version": "0.0.1",
+  "author": "83||470r",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b3ll4t0r/squeaky-toy.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "bundledDependencies": []
+}
