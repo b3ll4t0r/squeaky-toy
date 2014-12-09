@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/b3||4t0r/squeaky-toy.png)](https://travis-ci.org/b3||4t0r/squeaky-toy)
+
 squeaky-toy
 ===========
 
