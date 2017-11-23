@@ -3,9 +3,10 @@
   "description": "A module which wraps the Rexster server and is geared toward the Titan graph database.  For more: https://github.com/tinkerpop/rexster",
   "version": "0.0.1",
   "author": "83||470r",
+  "license": "MIT",
   "maintainers": {
-      "name":"Billy",
-      "email":"billbraski1999@rocketmail.com"
+      "name":"Shawn",
+      "email":"shawn_catoe@yahoo.com"
   },
   "repository": {
     "type": "git",
